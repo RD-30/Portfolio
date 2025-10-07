@@ -859,10 +859,13 @@ footer h1{
         width:80%;
     }
     .project-info h1{
-        text-wrap:nowrap;
+        white-space: normal;
+        word-wrap: break-word;
     }
     .project-info p{
-        max-width: 300px;
+        max-width: 100%;
+        font-size: 12px;
+        word-wrap: break-word;
     }
     .skills-section {
         margin-top:200px;
