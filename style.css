@@ -855,27 +855,7 @@ footer h1{
         margin-left: 15%;
         gap:30px;
     }
-    .project-info {
-    position: relative;
-    z-index: 10;
-    background-color: rgba(0, 0, 0, 0.6); /* Makes text readable on video */
-    color: white;
-    padding: 1rem;
-    mix-blend-mode: normal !important; /* Remove blending issues */
-    text-align: center;
-  }
-
-  .project-info h1,
-  .project-info p,
-  .project-info button {
-    color: white !important;
-  }
-
-  .project-info button a {
-    color: white;
-    text-decoration: none;
-  }
-    /* .project-info{
+    .project-info{
         width:80%;
     }
     .project-info h1{
@@ -886,7 +866,7 @@ footer h1{
         max-width: 100%;
         font-size: 12px;
         word-wrap: break-word;
-    } */
+    }
     .skills-section {
         margin-top:200px;
     }
